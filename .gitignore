@@ -2,5 +2,4 @@ django_tutorial_poll/secrets.py
 
 .idea
 __pycache__
-db.sqlite3
 
